@@ -12,29 +12,29 @@
 
 <h2 align="left"><i>You can find Portfolio link here</i></h2>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<h3 align="left"><a href="https://raje2.github.io" target="_blank"> Portfolio ( https://Linkusahoo479.github.io )</a></h3>
+<h3 align="left"><a href="https://Linkusahoo479.github.io" target="_blank"> Portfolio ( https://Linkusahoo479.github.io )</a></h3>
 
 <h2>Responsibilities<h2>
-<p>Created the total protofolio and the function by using Tech Stack like HTML, CSS, JS. In this project i used JS, CSS for the animation part of the protofolio which gives my protofolio a unique look.</p>
+<p>Created the total portfolio and the function by using Tech Stack like HTML, CSS, JS. In this project i used JS, CSS for the animation part of the protofolio which gives my protofolio a unique look.</p>
 <h4> NavBar </h4>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
-  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*VUD2A57Ote8rfy_d8KyVRw.png" alt="">
+  <img style="width: 100%;" src="https://drive.google.com/file/d/1fuwhi08uaGcjGK6w75NzvGbkc4ljgMYj/view?usp=drive_link" alt="">
   
  </div>
 
 <h4> Skills Part</h4>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
-  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*RXyS6UCeGv7i5Hj-NEUIyA.png" alt="">
+  <img style="width: 100%;" src="https://drive.google.com/file/d/1o6wtrIyK0cAGojIuFnUwnTd5FXMTD8sN/view?usp=drive_link" alt="">
   
  </div>
  
  <h4> Education and Projects Part </h4>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
-  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*NCm8NrLwFgigxwYpN1sETg.png" alt="">
-  <img style="width: 100%;" src="https://miro.medium.com/max/720/1*saxUe7mImb1vBxHGRGIybw.png" alt="">
+  <img style="width: 100%;" src="https://drive.google.com/file/d/1Z2xXlYufgWIoXlOm5Ib820XptmoGrAhf/view?usp=drive_link" alt="">
+  <img style="width: 100%;" src="https://drive.google.com/file/d/1d5pF6TB7BqfZnxICTZa1-yMOguQtO88O/view?usp=drive_link" alt="">
  </div>
 
-<h1 align="center"> <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Thank You <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> <a href="https://reliable-llama-c038f5.netlify.app/" target="_blank"> </a></h1>
+<h1 align ="center"> <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Thank You <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> 

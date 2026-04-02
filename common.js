@@ -163,7 +163,7 @@ twitterContact.addEventListener("click", () => {
 
 function downloadResume(){
     window.open(
-    "https://drive.google.com/file/d/10Jwx6ZARJ8yaxwcIUWkr7OsabKGJN0VB/view",
+    "https://drive.google.com/file/d/1bntf7KzL8fp8bQ7rdL4dbnsvLgF-8X8h/view?usp=drive_link/view",
     "_blank"
     );
 }

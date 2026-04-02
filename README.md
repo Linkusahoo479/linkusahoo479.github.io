@@ -19,7 +19,7 @@
 <h4> NavBar </h4>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
-  <img style="width: 100%;" src="https://drive.google.com/file/d/1fuwhi08uaGcjGK6w75NzvGbkc4ljgMYj/view?usp=drive_link" alt="">
+  <img style="width: 100%;" src="https://ibb.co/KxVHV4DR" alt="">
   
  </div>
 
@@ -34,7 +34,7 @@
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
   <img style="width: 100%;" src="https://drive.google.com/file/d/1Z2xXlYufgWIoXlOm5Ib820XptmoGrAhf/view?usp=drive_link" alt="">
-  <img style="width: 100%;" src="https://drive.google.com/file/d/1d5pF6TB7BqfZnxICTZa1-yMOguQtO88O/view?usp=drive_link" alt="">
+  <img style="width: 100%;" src="" alt="">
  </div>
 
-<h1 align ="center"> <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Thank You <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> 
+<h1 align ="center"> <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Thank You <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> <a href="https://reliable-llama-c038f5.netlify.app/" target="_blank"> </a></h1>

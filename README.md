@@ -12,7 +12,7 @@
 
 <h2 align="left"><i>You can find Portfolio link here</i></h2>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<h3 align="left"><a href="https://Linkusahoo479.github.io" target="_blank"> Portfolio ( https://Linkusahoo479.github.io )</a></h3>
+<h3 align="left"><a href="https://soumyaranjansahoo5.github.io/" target="_blank"> Portfolio ( https://Linkusahoo479.github.io )</a></h3>
 
 <h2>Responsibilities<h2>
 <p>Created the total portfolio and the function by using Tech Stack like HTML, CSS, JS. In this project i used JS, CSS for the animation part of the protofolio which gives my portfolio a unique look.</p>
